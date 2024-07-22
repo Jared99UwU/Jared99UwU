@@ -3,7 +3,7 @@
 
 ## Sobre Mí :
 
-- 🎓 Estudio Ingeniería en Sistemas Computacionales en ITCelaya
+- 🎓 Estudie Ingeniería en Sistemas Computacionales en ITCelaya
 - 🏡 Vivo en **México**
 - ⚡ **Datos Curiosos** : 🏀 🎤 🎶 💻
 
