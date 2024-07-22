@@ -1,13 +1,14 @@
 
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Jared Ortega</h1>
+<h1 align="center">Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, soy Jared Ortega</h1>
 
-## About Me :
+## Sobre Mí :
 
-- 🎓 Studies for Ingenieria en Sistemas Computacionales ITCelaya 
-- 🏡 Lives in **Mexico**
-- ⚡ **Fun Facts** : 🏀 🎤 🎶 💻
+- 🎓 Estudio Ingeniería en Sistemas Computacionales en ITCelaya
+- 🏡 Vivo en **México**
+- ⚡ **Datos Curiosos** : 🏀 🎤 🎶 💻
 
 <br>
+
 
 ## Technologies I Use :
 
