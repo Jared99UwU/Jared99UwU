@@ -1,5 +1,3 @@
-
-
 # Hola 👋, soy Jared Ortega
 
 ## Sobre Mí 🧑‍💻
@@ -12,12 +10,12 @@
 ### 🛠️ Tecnologías y Herramientas que Uso
 
 <p align="center">
-  <i class="devicon-html5-plain-wordmark" style="font-size: 40px;"></i>
-  <i class="devicon-css3-plain-wordmark" style="font-size: 40px;"></i>
-  <i class="devicon-javascript-plain" style="font-size: 40px;"></i>
-  <i class="devicon-php-plain" style="font-size: 40px;"></i>
-  <i class="devicon-java-plain" style="font-size: 40px;"></i>
-  <i class="devicon-spring-plain-wordmark" style="font-size: 40px;"></i>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring Boot" width="40" height="40"/>
 </p>
 
 ---
@@ -25,12 +23,12 @@
 ### 💾 Bases de Datos que Manejo
 
 <p align="center">
-  <i class="devicon-oracle-original" style="font-size: 40px;"></i>
-  <i class="devicon-mysql-plain" style="font-size: 40px;"></i>
-  <i class="devicon-mariadb-plain" style="font-size: 40px;"></i>
-  <i class="devicon-postgresql-plain" style="font-size: 40px;"></i>
-  <i class="devicon-mongodb-plain" style="font-size: 40px;"></i>
-  <i class="devicon-sqldeveloper-plain" style="font-size: 40px;"></i> <!-- Icono de SQL Developer -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" alt="MariaDB" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
+  
 </p>
 
 ---
@@ -41,6 +39,10 @@
 - 🏆 Siempre buscando mejorar en Java y aprender nuevas tecnologías.
 - 🚀 Apuntando a crecer en el mundo de desarrollo.
 - 🏀 Cuando no estoy programando, probablemente estoy en la cancha de baloncesto.
+
+---
+
+### 👀 Gracias por visitar mi perfil
 
 ---
 
