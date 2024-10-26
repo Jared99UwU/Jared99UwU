@@ -26,11 +26,12 @@
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40"/>
+   <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL" width="40" height="40"/> <!-- Puedes reemplazar con cualquier ícono de SQL Developer específico si lo encuentras -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" alt="MariaDB" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL" width="40" height="40"/> <!-- Puedes reemplazar con cualquier ícono de SQL Developer específico si lo encuentras -->
+ 
 </p>
 
 ---
