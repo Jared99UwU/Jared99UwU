@@ -2,7 +2,7 @@
 
 ## Sobre Mí 🧑‍💻
 
-🚀 **Dev Java Jr. apasionado por la tecnología y el código**  
+
 🎓 Ingeniero en Sistemas Computacionales | 🏀 Amante del baloncesto
 
 ---
@@ -39,7 +39,7 @@
 ### 📖 Un Poco Sobre Mí
 
 - 💻 Apasionado por resolver problemas a través de la programación.
-- 🏆 Siempre buscando mejorar en Java y aprender nuevas tecnologías.
+- 🏆 Siempre buscando mejorar y aprender nuevas tecnologías.
 - 🚀 Apuntando a crecer en el mundo de desarrollo.
 - 🏀 Cuando no estoy programando, probablemente estoy en la cancha de baloncesto.
 
